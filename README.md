@@ -1,11 +1,5 @@
-# gatsby-source-graphql example with GraphCMS
+# gatsby-mdx-reproduction
 
-Simple gatsby site that displays blog with data inside GraphCMS.
+Repository to debug [this Gatsby issue](https://github.com/gatsbyjs/gatsby/issues/25911)
 
-Built using [gatsby-source-graphql](https://www.gatsbyjs.org/packages/gatsby-source-graphql/).
-
-<!-- [See it here](https://using-gatsby-source-graphql.netlify.app/) -->
-
-## How it works
-
-Using `gatsby-source-graphql`, this stitches schema from GraphCMS into Gatsby schema. All blog posts are retrieved in `gatsby-node` and pages are created for them.
+Cloned from [`using-gatsby-source-graphq` example](https://github.com/gatsbyjs/gatsby/tree/master/examples/using-gatsby-source-graphql)
